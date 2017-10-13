@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Translater</string>
+    <string name="text_favorites">favorite</string>
+    <string name="text_settings">settings</string>
+    <string name="text_translate">translate</string>
+    <string name="translate">translate</string>
+</resources>
